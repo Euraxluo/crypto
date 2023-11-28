@@ -16,4 +16,4 @@
 - contract:`https://sepolia.etherscan.io/address/0xDd8794BFbeC38563C55D10B1d91a63B9a4982751`
 - nft:`https://sepolia.etherscan.io/nft/0xdd8794bfbec38563c55d10b1d91a63b9a4982751/1`
 - verify-contracy:`https://sepolia.etherscan.io/address/0xdd8794bfbec38563c55d10b1d91a63b9a4982751#code`
-- ![mint的NFT的URI值](image.png)
+- ![mint的NFT的URI值](doc/image.png)
