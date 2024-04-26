@@ -1,0 +1,19 @@
+{
+  "name": "solrpc_ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "solrpc_ws": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "ws": "^8.16.0"
+  }
+}
